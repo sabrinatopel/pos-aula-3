@@ -1,6 +1,6 @@
-package br.com.client.application.domain.entity;
+package br.com.acme.application.domain.entity;
 
-import br.com.client.application.domain.vo.*;
+import br.com.acme.application.domain.vo.*;
 import lombok.*;
 
 @Data

@@ -1,4 +1,4 @@
-package br.com.client.application.domain.vo;
+package br.com.acme.application.domain.vo;
 import lombok.*;
 
 @Data

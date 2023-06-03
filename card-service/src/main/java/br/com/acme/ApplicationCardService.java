@@ -1,4 +1,4 @@
-package br.com.card;
+package br.com.acme;
 
 
 import org.springframework.boot.SpringApplication;
