@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="972f5348-de93-4279-af73-d6dcfeb047d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client-service/src/main/java/br/com/acme/ApplicationClientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-service/src/main/java/br/com/acme/ApplicationClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/client-service/src/main/java/br/com/acme/ApplicationClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/client-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
