@@ -66,11 +66,11 @@
   </component>
   <component name="RunManager" selected="Application.ApplicationCardService">
     <configuration name="ApplicationCardService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.card.ApplicationCardService" />
+      <option name="MAIN_CLASS_NAME" value="br.com.acme.ApplicationCardService" />
       <module name="card-service" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.card.*" />
+          <option name="PATTERN" value="br.com.acme.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,11 +81,11 @@
     <configuration name="ApplicationClientService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="br.com.client.ApplicationClientService" />
+      <option name="MAIN_CLASS_NAME" value="br.com.acme.ApplicationClientService" />
       <module name="client-service" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.client.*" />
+          <option name="PATTERN" value="br.com.acme.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
