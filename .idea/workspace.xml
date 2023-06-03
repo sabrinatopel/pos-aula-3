@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="972f5348-de93-4279-af73-d6dcfeb047d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/client-service/src/main/java/br/com/client/application/domain/entity/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/client-service/src/main/java/br/com/client/application/domain/entity/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card-service/src/main/java/br/com/acme/adapters/input/text.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card-service/src/main/java/br/com/acme/adapters/output/text.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card-service/src/main/java/br/com/acme/application/domain/entity/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card-service/src/main/java/br/com/acme/application/domain/vo/text.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card-service/src/main/java/br/com/acme/application/ports/text.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card-service/src/main/java/br/com/acme/application/usecase/text.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/card-service/src/main/java/br/com/acme/application/utils/text.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-service/src/main/java/br/com/acme/adapters/input/text.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-service/src/main/java/br/com/acme/adapters/output/text.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-service/src/main/java/br/com/acme/application/ports/text.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-service/src/main/java/br/com/acme/application/usecase/text.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-service/src/main/java/br/com/acme/application/utils/text.text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +63,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client-service/src/main/java/br/com/acme/application/utils" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\srayza26\Desktop\acme_store\acme-store\client-service\src\main\java\br\com\acme\application\utils" />
+      <recent name="C:\Users\srayza26\Desktop\acme_store\acme-store\client-service\src\main\java\br\com\acme\application\usecase" />
+      <recent name="C:\Users\srayza26\Desktop\acme_store\acme-store\client-service\src\main\java\br\com\acme\application\ports" />
+      <recent name="C:\Users\srayza26\Desktop\acme_store\acme-store\client-service\src\main\java\br\com\acme\adapters\output" />
+      <recent name="C:\Users\srayza26\Desktop\acme_store\acme-store\client-service\src\main\java\br\com\acme\adapters\input" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\srayza26\Desktop\acme_store\acme-store\card-service\src\main\resources" />
       <recent name="C:\Users\srayza26\Desktop\acme_store\acme-store\client-service\src\main\resources" />
@@ -123,7 +142,28 @@
       <option name="project" value="LOCAL" />
       <updated>1685819749935</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add name on entity client">
+      <created>1685819863066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685819863066</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change packet name to br.com.acme">
+      <created>1685820090082</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685820090082</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change packet name to br.com.acme">
+      <created>1685820099325</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685820099325</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +181,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="create client" />
     <MESSAGE value="create domain entity client and vo docu, email and phone" />
-    <option name="LAST_COMMIT_MESSAGE" value="create domain entity client and vo docu, email and phone" />
+    <MESSAGE value="add name on entity client" />
+    <MESSAGE value="change packet name to br.com.acme" />
+    <option name="LAST_COMMIT_MESSAGE" value="change packet name to br.com.acme" />
   </component>
 </project>
