@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="972f5348-de93-4279-af73-d6dcfeb047d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/card-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/card-service/src/main/java/br/com/card/ApplicationCardService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/card-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client-service/src/main/resources/banner.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-service/src/main/java/br/com/client/application/domain/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +60,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\srayza26\Desktop\acme_store\acme-store\card-service\src\main\resources" />
       <recent name="C:\Users\srayza26\Desktop\acme_store\acme-store\client-service\src\main\resources" />
       <recent name="C:\Users\srayza26\Desktop\acme_store\acme-store\service-client\src\main\resources" />
     </key>
