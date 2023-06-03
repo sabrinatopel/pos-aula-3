@@ -9,6 +9,7 @@ import lombok.*;
 @Builder
 public class Client {
     private Long id;
+    private String name;
     private Email email;
     private Document document;
     private Phone phone;
