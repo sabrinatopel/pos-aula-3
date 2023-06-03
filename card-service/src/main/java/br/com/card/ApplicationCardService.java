@@ -1,11 +1,12 @@
-package br.com.acme;
+package br.com.card;
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApplicationClientService {
+public class ApplicationCardService {
     public static void main(String[] args) {
-        SpringApplication.run(ApplicationClientService.class, args);
+        SpringApplication.run(ApplicationCardService.class, args);
     }
 }
